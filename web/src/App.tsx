@@ -1,7 +1,7 @@
-import { useState } from 'react'
+import { Widget } from './components/Widget'
 
 function App() {
-  return <h1>Aoba</h1>
+  return <Widget/>
 }
 
 export default App
